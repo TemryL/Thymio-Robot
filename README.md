@@ -5,6 +5,6 @@ Submitted on Sunday, 12 December 2021, 22:35.
 
 The overall project is explained in the jupyter notebook : report.ipynb
 
-## Demo:
+## Demo
 
 [![IMAGE ALT TEXT HERE](https://github.com/TemryL/Thymio_robot/blob/main/videos/demo_screen.gif)](https://github.com/TemryL/Thymio_robot/blob/main/videos)
